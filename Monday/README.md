@@ -12,3 +12,7 @@
 ### Session 3 (3:00-4:00)
 * Decision trees and random forests (Dr. Jindah Shah, Oklahoma State University) [Notebook](https://github.com/icomse/9th_workshop_ml_for_molecules/blob/main/Monday/Decision_Tree_Random_Forests/RandomForest.ipynb)
 * Questions and summary of day (3:50-4:00) (Dr. Michael Shirts, Universty of Colorado Boulder)
+
+### Recordings
+* [Part 1](https://www.youtube.com/watch?v=jFMSrut4PiQ&list=PLbaI3ApTFTPFRqtD3HzXfov8cerLeh8zZ&index=2)
+* [Part 2](https://www.youtube.com/watch?v=WlkrU_hOuHE&list=PLbaI3ApTFTPFRqtD3HzXfov8cerLeh8zZ&index=1)
