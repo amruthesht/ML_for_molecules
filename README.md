@@ -18,5 +18,5 @@
 ### Post-workshop
 [Step to learn more after the workshop](nextsteps.md)
 
-[YouTube Playlist of Recordings](https://www.youtube.com/playlist?list=PLbaI3ApTFTPFRqtD3HzXfov8cerLeh8zZ)
+[YouTube Playlist of Recordings](https://www.youtube.com/playlist?list=PLeYIhs60ZS3ag-wt250z---Gh_QsgVsES)
 

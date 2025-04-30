@@ -14,5 +14,5 @@
 * Questions and summary of day (3:50-4:00) (Dr. Michael Shirts, Universty of Colorado Boulder)
 
 ### Recordings
-* [Part 1](https://www.youtube.com/watch?v=jFMSrut4PiQ&list=PLbaI3ApTFTPFRqtD3HzXfov8cerLeh8zZ&index=2)
-* [Part 2](https://www.youtube.com/watch?v=WlkrU_hOuHE&list=PLbaI3ApTFTPFRqtD3HzXfov8cerLeh8zZ&index=1)
+* [Part 1](https://www.youtube.com/watch?v=lAN0FsvWT1M&list=PLeYIhs60ZS3ag-wt250z---Gh_QsgVsES&index=1)
+* [Part 2](https://www.youtube.com/watch?v=TAWJUYWdSSY&list=PLeYIhs60ZS3ag-wt250z---Gh_QsgVsES&index=2)
